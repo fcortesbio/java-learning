@@ -60,17 +60,21 @@ This professional certificate is a collaboration between Amazon and Coursera des
 Throughout the course, you will apply these concepts by working on a **virtual zoo application**. This final project integrates all the skills you've learned, demonstrating your ability to solve a practical problem with code.
 
 ### **Outcome**:
+
 By the end of the course, you will have a solid foundation in Java programming and software development principles, giving you the confidence and skills needed for internships, apprenticeships, and more advanced courses.
 
 ## **1.3. Virtual Zoo - Project Preview**
+
 The final project requires you to apply all the Java and Object-Oriented Programming (OOP) concepts from the course to build a functional **"virtual zoo"** application.
 
 ### **Objectives**:
-* evaluate your understanding of core Jaav and OOP principles
-* demostrate your ability to integrate multiple skills into a single, working program
-* showcase your ability to create unique, manageable, and non-repetitive  code
+
+- evaluate your understanding of core Jaav and OOP principles
+- demostrate your ability to integrate multiple skills into a single, working program
+- showcase your ability to create unique, manageable, and non-repetitive code
 
 ### **Core tasks & concepts**
+
 **1. Use inheritance**: You will creatae a base `Animal` class and then extend it to create specific child classes like `Tiger` and `Dolphin`. This is designed to teach code reuse.
 
 **2. Implement Behaviors with Interfaces**: You will use interfaces to add distinct behaviours to your animals, such as `Walking` or `Swimming`.
@@ -78,9 +82,36 @@ The final project requires you to apply all the Java and Object-Oriented Program
 **3. Handle Multiple Behaviours**: You will create a `Penguin` class that implements both the `Walking` and `Swimming` interfaces to demonstrate how an object can have multiple, distinct functionalities.
 
 **4. Createa a User-Controlled Menu**: You will build a menu-based system that allows the user to:
-  * Choose an animal (Tiger, Dolphin, or Penguin)
-  * Display and modify the animal's characteristics.
-  * Trigger the animal behaviors
-  * Exit the program cleanly with a "quit" option
+  - Choose an animal (Tiger, Dolphin, or Penguin)
+  - Display and modify the animal's characteristics.
+  - Trigger the animal behaviors
+  - Exit the program cleanly with a "quit" option
 
 The final result will be a complete, menu-driven application that proves your ability to use key OOP concepts to build a creative and functional program
+
+## **Course syllabus: Introduction to software development**
+
+This course is your starting point for learning software development with the Java programming language. It's designed to give you the foundational skills needed for a career in tech.
+
+### **Course Modules**
+
+The course is broken down into four key modules:
+
+- **Module 1**: Getting Started with Java: learn about the role of a software developer, set up your coding environment, and write your first simple Java programs
+
+- **Module 2**: Control Flow: learn how to make your programs smarter by using conditional statements (like if/else) for decision-making and loops to automate repetitive tasks.
+
+- **Module 3: Object-Oriented Programming (OOP) Basics**: learn the fundamentals of OOP, a crucial industry practice for writing organized, reusable, and efficient code using concepts like classes and abstraction.
+
+- **Module 4: Final Project and Assessment**: apply all your new skills to a hands-on project: building a complete software application to manage a fictional zoo
+
+### **Learning Outcomes**
+
+By the end of this course, you'll be able to:
+
+- Understand the Software Development Lifecycle (SDLC).
+- Write and run basic Java programs.
+- Use control structures to manage program flow.
+- Apply fundamental Object-Oriented Programming (OOP) concepts.
+
+Your progress will be evaluated with the final zoo project and a course quiz.
