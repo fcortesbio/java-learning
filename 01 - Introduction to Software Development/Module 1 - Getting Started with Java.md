@@ -259,3 +259,113 @@ The **Software Development Life Cycle (SDLC)** is a structured, seven-phase proc
 5.  **Testing:** Once the software is built, it's rigorously tested to **find and fix bugs** and ensure all parts work as intended. You're making sure the LEGO castle's drawbridge goes up and down smoothly.
 6.  **Deployment:** The software is **made available to users**. This can be a full release or a phased rollout. Your LEGO castle is now finished and on display for everyone to see.
 7.  **Maintenance:** After deployment, the work continues. This phase involves **fixing any issues that arise**, making improvements, and adding new features to keep the software running smoothly over time, just like occasionally repairing a part of your LEGO model.
+
+---
+## **1.10. Activity: A Simple Java Program**
+
+It's time to get coding.
+
+### **Launch a Code Editor/IDE**
+
+The course suggests using IntelliJ, which is available in the course lab's remote desktop. However, for convenience, I'm using a different approach for local development as part of my "learn and document" approach.
+
+This guide shows you how to create, build, and run a simple Java application using a code editor and a build tool.
+
+### **1. Prerequisites**
+
+Before you start, make sure you have the following installed on your local machine:
+
+- **A code editor** like [Zed](https://zed.dev/) or [VS Code](https://code.visualstudio.com/)
+- **The Java Development Kit (JDK)**, I'm using [OpenJDK](https://openjdk.org/install)
+- **The Gradle build tool**, which you can get [here](https://gradle.org/install/)
+
+### **2. Create the Project Boilerplate**
+
+First, we'll use Gradle to generate a standard project structure:
+
+1. Open your terminal, create a new directory for your project, and navigate into it:
+
+```bash path=null start=null
+mkdir MyFirstProgram && cd MyFirstProgram
+```
+
+2. Run the Gradle initializer command:
+
+```bash path=null start=null
+gradle init
+```
+
+3. Answer the interactive prompts. This setup is crucial for letting Gradle know how to build your application:
+
+   | Prompt | Selection |
+   |--------|----------|
+   | Select the type of build to generate | `1: application` |
+   | Select implementation language | `1: Java` |
+   | Enter the Java version | `21` (default) |
+   | Select Project name | (defaults to directory name) |
+   | Select Application structure | `1: Single application project` |
+   | Select build script DSL | `1: Kotlin` |
+   | Select a test framework | `4: JUnit Jupiter` |
+   | Generate build using new APIs and behaviour? | `no` |
+
+   Gradle will create a complete project structure, including a sample Java file.
+
+### **3. Understanding the Structure (the `app` folder)**
+
+Gradle will create a structure that looks like this. This is the modern, standard way Gradle organizes projects:
+
+- **`MyFirstProgram/` (our Root)**: This folder holds the main build configuration (`settings.gradle.kts`) and the Gradle Wrapper (`gradlew`). You will run all commands from here
+
+- **`MyFirstProgram/app/` (our Module)**: This is your application's "module". It contains all your Java code and its own build file (`app/build.gradle.kts`)
+
+All our Java code will live inside `MyFirstProgram/app/src/main/java`.
+
+### **4. Write the Code**
+
+Gradle created a sample Java file. We will edit it to run our program.
+
+1. Open the main `MyFirstProgram` folder in Zed (or your preferred IDE)
+
+2. Navigate to the sample file Gradle created. The path is: `app/src/main/java/org/example/App.java`
+
+3. Replace the **entire contents** of the `App.java` with your simple program. We'll keep the `package` line at the top, as it's required by Java to match the folder structure
+
+```java path=null start=null
+/*
+ * This is the file we're editing:
+ * app/src/main/java/org/example/App.java
+ */
+package org.example; // This line MUST match the folder path
+
+public class App {
+    // We are using the App class that Gradle created
+
+    public static void main(String[] args) {
+        System.out.print("I am a Programmer!");
+    }
+}
+```
+### **5. Build and Run the Program**
+
+Now, let's run your code.
+
+1. Go back to your terminal. Make sure you are in the root `MyFirstProgram` directory (the one containing the `gradlew` file)
+
+2. Run the application using the Gradle Wrapper:
+
+```bash path=null start=null
+./gradlew run
+```
+
+You will see the output directly in your terminal, confirming your program worked:
+
+```plaintext path=null start=null
+❯ ./gradlew run
+Calculating task graph as no cached configuration is available for tasks: run
+
+> Task :app:run
+I am a Programmer!
+BUILD SUCCESSFUL in 1s
+2 actionable tasks: 2 executed
+Configuration cache entry stored.
+```
