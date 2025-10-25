@@ -2,7 +2,7 @@
 
 ## **1.1. Introduction to Software Development**
 
-### **Summary: Junior Software Development Professional Certificate (Amazon & Coursera)**
+### **1.1.1 Introduction to professional certificate**
 
 This professional certificate is a collaboration between Amazon and Coursera designed to provide hands-on experience for aspiring Junior Software developers. The program is mapped to key job skills and aims to equip students with the practical knowledge needed for entry level roles in the field.
 
@@ -37,9 +37,9 @@ This professional certificate is a collaboration between Amazon and Coursera des
 
 - **Online Assessment Preparation:** The course includes preparation for the technical assessments commonly used by top tech companies in their interview processes
 
-## **1.2. Course Introduction**
+### **1.1.2. Course Introduction**
 
-### **Key Learning Areas**
+#### **Key Learning Areas**
 
 - **The Developer Role**: You will begin by exploring the day-to-day responsibilities of a software developer and learn about the Software Development Life Cycle (SDLC), which is the framework for planning, building, and maintaining software
 
@@ -53,25 +53,25 @@ This professional certificate is a collaboration between Amazon and Coursera des
 
 - **Object-Oriented Programming (OOP)**: The course introduces the core principles of OOP, teaching you how to organize code using **classes** (blueprints) and **methods** (behaviors) to create scalable and reusable solutions
 
-### **Project-Based Learning**
+#### **Project-Based Learning**
 
 Throughout the course, you will apply these concepts by working on a **virtual zoo application**. This final project integrates all the skills you've learned, demonstrating your ability to solve a practical problem with code.
 
-### **Outcome**
+#### **Outcome**
 
 By the end of the course, you will have a solid foundation in Java programming and software development principles, giving you the confidence and skills needed for internships, apprenticeships, and more advanced courses.
 
-## **1.3. Virtual Zoo - Project Preview**
+### **1.1.3. Virtual Zoo - Project Preview**
 
 The final project requires you to apply all the Java and Object-Oriented Programming (OOP) concepts from the course to build a functional **"virtual zoo"** application.
 
-### **Objectives**:
+#### **Objectives**
 
 - Evaluate your understanding of core Java and OOP principles
 - Demonstrate your ability to integrate multiple skills into a single, working program
 - Showcase your ability to create unique, manageable, and non-repetitive code
 
-### **Core Tasks & Concepts**
+#### **Core Tasks & Concepts**
 
 **1. Use Inheritance**: You will create a base `Animal` class and then extend it to create specific child classes like `Tiger` and `Dolphin`. This is designed to teach code reuse
 
@@ -88,11 +88,11 @@ The final project requires you to apply all the Java and Object-Oriented Program
 
 The final result will be a complete, menu-driven application that proves your ability to use key OOP concepts to build a creative and functional program
 
-## **1.4. Course Syllabus: Introduction to Software Development**
+### **1.1.4. Course Syllabus: Introduction to Software Development**
 
 This course is your starting point for learning software development with the Java programming language. It's designed to give you the foundational skills needed for a career in tech.
 
-### **Course Modules**
+#### **Course Modules**
 
 The course is broken down into four key modules:
 
@@ -104,7 +104,7 @@ The course is broken down into four key modules:
 
 - **Module 4: Final Project and Assessment**: Apply all your new skills to a hands-on project: building a complete software application to manage a fictional zoo
 
-### **Learning Outcomes**
+#### **Learning Outcomes**
 
 By the end of this course, you'll be able to:
 
@@ -115,7 +115,7 @@ By the end of this course, you'll be able to:
 
 Your progress will be evaluated with the final zoo project and a course quiz.
 
-## **1.5. The Role of a Software Developer**
+### **1.1.5. The Role of a Software Developer**
 
 Software development is the process of designing, creating, and maintaining software applications to solve real-world problems. It's like being a digital architect.
 
@@ -139,11 +139,11 @@ A developer's tasks include:
 
 ---
 
-## **1.6. Areas of Expertise**
+### **1.1.6. Areas of Expertise**
 
 Software development has several areas of expertise. The three main paths for web and application development are **frontend**, **backend**, and **full-stack**.
 
-### **Frontend Development**
+#### **Frontend Development**
 
 This specialization focuses on the **visual part** of an application—everything the user sees and interacts with. It's all about creating a beautiful and intuitive user experience (UX).
 
@@ -154,7 +154,7 @@ This specialization focuses on the **visual part** of an application—everythin
 - Optimizing the application for speed and performance
 - Collaborating closely with designers to bring their vision to life
 
-### **Backend Development**
+#### **Backend Development**
 
 This is the **"engine room"** of an application. The backend handles everything that happens behind the scenes, like data storage, security, and the core logic that makes the application work.
 
@@ -166,7 +166,7 @@ This is the **"engine room"** of an application. The backend handles everything 
 - Implementing security measures to protect data
 - Ensuring the system is **scalable** to handle growth and more users
 
-### **Full-Stack Development**
+#### **Full-Stack Development**
 
 This is the **"best of both worlds."** A full-stack developer is a versatile professional who is comfortable working on both the frontend and the backend of an application. They are like a Swiss army knife of development.
 
@@ -179,7 +179,7 @@ This is the **"best of both worlds."** A full-stack developer is a versatile pro
 
 ---
 
-## **1.7. Software Development Day-to-Day**
+### **1.1.7. Software Development Day-to-Day**
 
 A developer's day is a mix of focused individual work and collaborative team effort. It's much more than just writing code.
 
@@ -189,7 +189,7 @@ A developer's day is a mix of focused individual work and collaborative team eff
 - **Testing & Documentation:** You'll spend time **testing your code** to make sure everything runs smoothly and **writing documentation** to help others (and your future self) understand it
 - **Continuous Learning:** The tech world moves fast, so you'll also dedicate time to learning about the latest tools and technologies through blogs, videos, or workshops
 
-### **Essential Skills for Success**
+#### **Essential Skills for Success**
 
 To thrive as a developer, you need a blend of technical and soft skills.
 
@@ -198,7 +198,7 @@ To thrive as a developer, you need a blend of technical and soft skills.
 
 ---
 
-### **Gaining Real-World Experience**
+#### **Gaining Real-World Experience**
 
 Internships are a fantastic way to apply your skills in a professional setting. You could find yourself in roles like:
 
@@ -207,7 +207,7 @@ Internships are a fantastic way to apply your skills in a professional setting. 
 - **Frontend Intern:** Building interactive websites at a marketing agency
 - **Full-Stack Intern:** Working on both the frontend and backend of an application
 
-### **Key Qualities for Success**
+#### **Key Qualities for Success**
 
 Successful software developers combine several important qualities:
 
@@ -216,7 +216,7 @@ Successful software developers combine several important qualities:
 - **Attention to Detail:** Catching bugs and writing precise, error-free code
 - **Active Metacognition:** Reflecting on your learning process and problem-solving approaches
 
-### **How to Improve Your Skills**
+#### **How to Improve Your Skills**
 
 Developing attention to detail is crucial for junior software developers to enhance their coding proficiency and contribute effectively to projects:
 
@@ -226,7 +226,7 @@ Developing attention to detail is crucial for junior software developers to enha
 
 ---
 
-## **1.8. Landscape of Programming Languages**
+### **1.1.8. Landscape of Programming Languages**
 
 Programming languages can be thought of as different neighborhoods in a city, each with its own character and purpose. Here's a quick tour:
 
@@ -239,11 +239,11 @@ Programming languages can be thought of as different neighborhoods in a city, ea
 - **Swift:** The "Apple museum." It's the modern, go-to language for developing apps for iOS, macOS, and other Apple platforms
 - **Kotlin:** The "popular new gallery." It's the preferred language for modern Android development, offering a cleaner syntax while being fully compatible with Java
 
-## **1.9. Software Development Life Cycle**
+### **1.1.9. Software Development Life Cycle**
 
 The **Software Development Life Cycle (SDLC)** is a structured, seven-phase process for designing, developing, and testing high-quality software. Think of it like building a complex model with LEGOs: you plan, gather pieces, build, test, and maintain your creation.
 
-### **The 7 Phases of the SDLC**
+#### **The 7 Phases of the SDLC**
 
 1. **Planning:** This is the first step where you define the **goals of the project**, plan resources (like developers and budget), and identify potential risks. It's like deciding you want to build a LEGO castle and sketching out a rough idea
 2. **Analysis:** Here, you gather and document all the **requirements from the users** and stakeholders. This ensures you know exactly what the software needs to do, much like making a list of all the specific LEGO bricks you'll need for your castle
@@ -255,11 +255,11 @@ The **Software Development Life Cycle (SDLC)** is a structured, seven-phase proc
 
 ---
 
-## **1.10. Activity: A Simple Java Program**
+### **1.1.10. Activity: A Simple Java Program**
 
 It's time to get coding.
 
-### **Launch a Code Editor/IDE**
+#### **Launch a Code Editor/IDE**
 
 The course suggests using IntelliJ, which is available in the course lab's remote desktop. However, for convenience, I'm using a different approach for local development as part of my "learn and document" approach.
 
@@ -267,7 +267,7 @@ This guide shows you how to create, build, and run a simple Java application usi
 
 ---
 
-### **1. Prerequisites**
+#### **1. Prerequisites**
 
 Before you start, make sure you have the following installed on your local machine:
 
@@ -275,7 +275,7 @@ Before you start, make sure you have the following installed on your local machi
 - **The Java Development Kit (JDK)**, I'm using [OpenJDK](https://openjdk.org/install)
 - **The Gradle build tool**, which you can get [here](https://gradle.org/install/)
 
-### **2. Create the Project Boilerplate**
+#### **2. Create the Project Boilerplate**
 
 First, we'll use Gradle to generate a standard project structure:
 
@@ -306,7 +306,7 @@ gradle init
 
    Gradle will create a complete project structure, including a sample Java file.
 
-### **3. Understanding the Structure (the `app` folder)**
+#### **3. Understanding the Structure (the `app` folder)**
 
 Gradle will create a structure that looks like this. This is the modern, standard way Gradle organizes projects:
 
@@ -316,7 +316,7 @@ Gradle will create a structure that looks like this. This is the modern, standar
 
 All our Java code will live inside `MyFirstProgram/app/src/main/java`.
 
-### **4. Write the Code**
+#### **4. Write the Code**
 
 Gradle created a sample Java file. We will edit it to run our program.
 
@@ -342,7 +342,7 @@ public class App {
 }
 ```
 
-### **5. Build and Run the Program**
+#### **5. Build and Run the Program**
 
 Now, let's run your code.
 
@@ -369,9 +369,9 @@ Configuration cache entry stored.
 
 ---
 
-## **1.11. How to Be Successful in This Course**
+### **1.1.11. How to Be Successful in This Course**
 
-### **Key Strategies for Success**
+#### **Key Strategies for Success**
 
 - **Be Deliberate:** Set specific, measurable daily goals and schedule your study time directly on your calendar to ensure it isn't skipped
 - **Create Your Space:** Dedicate a specific, distraction-free space for studying. Separating it from leisure areas improves focus and information recall
@@ -382,6 +382,32 @@ Configuration cache entry stored.
 
 ---
 
-## **1.12. Knowledge Check: Introduction to Software Development**
+### **1.1.12. Knowledge Check: Introduction to Software Development**
 
 *Knowledge check completed - no additional documentation needed.*
+
+
+---
+<!--Here we start the new section-->
+## **1.2. Java basics: Variables and operators**
+### Introduction to Java, features and applications
+### Introduction to variables and data Types
+### Explire the different types of operators in Java
+### Activity: Practice declaring and initializing variables
+### Knowledge check: Java basics: Variables and operators
+### Quick reference: Java data types and operators
+
+
+---
+<!--Here we start a new section-->
+## **1.3.Strings: Working with text in Java**
+### Handling text with Java
+### Using String methods
+### Working with Strings
+### Strings in actionable
+### Using Arrays of Strings
+### Knowledge check: Strings: working with text in Java
+### Activity: Getting Started with Java
+### Module summary: Getting Started with Java
+### Module Quiz: Getting started with Java
+### Additional resources: Introduction to software development
