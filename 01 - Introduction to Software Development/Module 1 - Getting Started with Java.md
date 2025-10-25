@@ -6,7 +6,7 @@
 
 This professional certificate is a collaboration between Amazon and Coursera designed to provide hands-on experience for aspiring Junior Software developers. The program is mapped to key job skills and aims to equip students with the practical knowledge needed for entry level roles in the field.
 
-### **Key Program Features**:
+#### **Key Program Features**:
 
 - **Target Audience**: designed for Junior developers, entry-level professionals, and anyone starting a career in software development.
 
@@ -14,7 +14,7 @@ This professional certificate is a collaboration between Amazon and Coursera des
 
 - **Learning Methodology:** practical application through hands-on labs, activities, quizzes, and a final capstone project.
 
-### **Curriculum Highlights:**
+#### **Curriculum Highlights:**
 
 - **Java Fundamentals**
 - **Object-Oriented Programming (OOP)**
@@ -23,7 +23,7 @@ This professional certificate is a collaboration between Amazon and Coursera des
 - **Industry Tools & Practices**
 - **Generative AI Tools**
 
-### **Outcomes and Benefits**:
+#### **Outcomes and Benefits**:
 
 - **Career Readiness**: The program prepares you for the job market, which is projected to grow significantly (a 25% increase in jobs by 2032, according to the U.S. Bureau of Labour Statistics).
 
@@ -31,7 +31,7 @@ This professional certificate is a collaboration between Amazon and Coursera des
 
 - **Enhanced Job Prospects:** The credential and skills gained can improve your chances of securing internships, apprenticeships, and junior developer roles.
 
-### **Unique Selling Points**
+#### **Unique Selling Points**
 
 - **Insights from Amazon Web Developers:** Gain practical knowledge and insights directly from experienced software developers at Amazon
 
