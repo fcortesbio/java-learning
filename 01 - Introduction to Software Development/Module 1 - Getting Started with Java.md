@@ -384,30 +384,69 @@ Configuration cache entry stored.
 
 ### **1.1.12. Knowledge Check: Introduction to Software Development**
 
-*Knowledge check completed - no additional documentation needed.*
-
+_Knowledge check completed - no additional documentation needed._
 
 ---
+
 <!--Here we start the new section-->
+
 ## **1.2. Java basics: Variables and operators**
+
 ### Introduction to Java, features and applications
+
+Java is an in-demand, versatile programming language and computing platform released in 1995. It is essential to many everyday technologies, powering billions of devices like mobile phones, laptops, and computers -outnumbering the global population.
+
+The language uses Object-Oriented Programming (OOP), which organizes code using "classes" (blueprints) and "objects" (specific instances of classes).
+
+Java's widespread popularitie is due to several key features:
+
+- **Robustness**: It excels at handling errors and managing memory, which prevents crashes and creates reliable, secure software.
+
+- **Rich standard library**: It offers a huge "toolbox" of pre-written code, allowing developers to build complex applications faster.
+
+- **Strong Community**: A massive, active community of developers provides extensive support through forums, tutorials, and open source projects.
+
+Java is used accross many different fields to build:
+
+- **Enterprise Applications**: Large-scale systems for business (e.g., CRM or ERP systems)
+- **Web Applications**: Dynamic and interactive websites
+
+- **Mobile Applications**: The majority of apps for the Android operating system.
+
+- **Desktop Applications**: Programs and games, such as Minecraft and Eclipse.
+
 ### Introduction to variables and data Types
+
 ### Explire the different types of operators in Java
+
 ### Activity: Practice declaring and initializing variables
+
 ### Knowledge check: Java basics: Variables and operators
+
 ### Quick reference: Java data types and operators
 
-
 ---
+
 <!--Here we start a new section-->
+
 ## **1.3.Strings: Working with text in Java**
+
 ### Handling text with Java
+
 ### Using String methods
+
 ### Working with Strings
+
 ### Strings in actionable
+
 ### Using Arrays of Strings
+
 ### Knowledge check: Strings: working with text in Java
+
 ### Activity: Getting Started with Java
+
 ### Module summary: Getting Started with Java
+
 ### Module Quiz: Getting started with Java
+
 ### Additional resources: Introduction to software development
